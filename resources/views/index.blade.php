@@ -5,7 +5,7 @@
     </x-slot>
 
     <x-slot name="body">
-
+          <h1>Redy Delgado</h1>
          @livewire('tarjetas-component')
          @livewire('panel-control-component')
       
